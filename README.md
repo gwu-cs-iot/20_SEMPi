@@ -47,7 +47,7 @@ Researchers: Jacob Cannizzaro, Marcus Young, & Alex Jacobson
 
    ```
    pi-mess/
-   	|____Pi_Messenger/
+   	|____20_SEMPi/
    	|____connect_device_package/
    ```
 
@@ -105,7 +105,7 @@ Researchers: Jacob Cannizzaro, Marcus Young, & Alex Jacobson
 
 12. Now everything should be set up in your directory and on AWS's side of things (AWS is playing the role of the Broker), so let's run the installation script:
 
-    Begin by changing into the `Pi-Messanger/src/` directory and then run
+    Begin by changing into the `20_SEMPi/src/` directory and then run
 
     ```
     $ python3 install.py
