@@ -1,6 +1,6 @@
 # 20_SEMPi
 # Secure Encrypted Pi Messenger (SEMPi)
-
+Researchers: Jacob Cannizzaro, Marcus Young, & Alex Jacobson
 ## 
 
 ### Overall Idea:
