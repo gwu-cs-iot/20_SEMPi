@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#useless mac system files
+*.DS_Store
+
+#python pickle objects
+*.pkl
+
 # Distribution / packaging
 .Python
 build/
